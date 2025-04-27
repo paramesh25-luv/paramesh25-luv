@@ -1,4 +1,4 @@
-# About Paramesh | Electronics and Communication Engineer
+# About Paramesh | Electronics and Communication 
 
 🔹 Electronics and Communication Engineering undergraduate with strong proficiency in Embedded Systems, Signal Processing, and Wireless Communication Technologies.
 
